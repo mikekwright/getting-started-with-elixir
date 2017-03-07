@@ -1,0 +1,3 @@
+defmodule Budget do
+
+end
